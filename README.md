@@ -43,7 +43,7 @@ This repository contains my ethical hacking practice labs, tools, and scripts. I
 ## 🔗 Connect With Me
 
 - GitHub: [github.com/souravmondal](https://github.com/sourav8497)
-- TryHackMe: [https://tryhackme.com/p/SouravMondal]()
+- TryHackMe: [https://tryhackme.com/p/SouravMondal](https://tryhackme.com/p/SouravMondal)
 - LinkedIn: [https://www.linkedin.com/in/sourav-mondal-bab332275]
 
 
