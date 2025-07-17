@@ -141,5 +141,5 @@ Press 'q' or Ctrl-C to abort, almost any other key for status
 alqfna22         (Jon)     
 1g 0:00:00:02 DONE (2025-07-16 16:58) 0.3802g/s 3878Kp/s 3878Kc/s 3878KC/s alqueva1968..alpus
 Use the "--show --format=NT" options to display all of the cracked passwords reliably
-Session completed. 
+Session completed
 
